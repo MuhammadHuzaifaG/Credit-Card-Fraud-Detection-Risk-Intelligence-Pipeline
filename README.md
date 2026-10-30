@@ -18,6 +18,8 @@ The dataset comprises 100,000 transactions generated to simulate real-world cred
 
 ---
 
+<img src="https://github.com/MuhammadHuzaifaG/Credit-Card-Fraud-Detection-Risk-Intelligence-Pipeline/blob/main/images/fraud_rate.PNG"/>
+
 ## Workflow Steps
 
 ### Step 1: Environment Setup & Data Profiling
@@ -51,6 +53,8 @@ The dataset comprises 100,000 transactions generated to simulate real-world cred
 - **Business Impact:** Deployed dynamic merchant velocity checks, geographic MFA triggers, and calibrated decision thresholds to minimize financial loss while controlling review overhead.
 
 ---
+
+<img src="https://github.com/MuhammadHuzaifaG/Credit-Card-Fraud-Detection-Risk-Intelligence-Pipeline/blob/main/images/heatmap.PNG"/>
 
 ## Key Summary Results
 
